@@ -1,0 +1,14 @@
+C:\Projects\POC\.NET Core\CoreWebAPIProject\bin\Debug\netcoreapp2.2\CoreWebAPIProject.deps.json
+C:\Projects\POC\.NET Core\CoreWebAPIProject\bin\Debug\netcoreapp2.2\CoreWebAPIProject.runtimeconfig.json
+C:\Projects\POC\.NET Core\CoreWebAPIProject\bin\Debug\netcoreapp2.2\CoreWebAPIProject.runtimeconfig.dev.json
+C:\Projects\POC\.NET Core\CoreWebAPIProject\bin\Debug\netcoreapp2.2\CoreWebAPIProject.dll
+C:\Projects\POC\.NET Core\CoreWebAPIProject\bin\Debug\netcoreapp2.2\CoreWebAPIProject.pdb
+C:\Projects\POC\.NET Core\CoreWebAPIProject\obj\Debug\netcoreapp2.2\CoreWebAPIProject.csprojAssemblyReference.cache
+C:\Projects\POC\.NET Core\CoreWebAPIProject\obj\Debug\netcoreapp2.2\CoreWebAPIProject.csproj.CoreCompileInputs.cache
+C:\Projects\POC\.NET Core\CoreWebAPIProject\obj\Debug\netcoreapp2.2\CoreWebAPIProject.RazorAssemblyInfo.cache
+C:\Projects\POC\.NET Core\CoreWebAPIProject\obj\Debug\netcoreapp2.2\CoreWebAPIProject.RazorAssemblyInfo.cs
+C:\Projects\POC\.NET Core\CoreWebAPIProject\obj\Debug\netcoreapp2.2\CoreWebAPIProject.AssemblyInfoInputs.cache
+C:\Projects\POC\.NET Core\CoreWebAPIProject\obj\Debug\netcoreapp2.2\CoreWebAPIProject.AssemblyInfo.cs
+C:\Projects\POC\.NET Core\CoreWebAPIProject\obj\Debug\netcoreapp2.2\CoreWebAPIProject.RazorTargetAssemblyInfo.cache
+C:\Projects\POC\.NET Core\CoreWebAPIProject\obj\Debug\netcoreapp2.2\CoreWebAPIProject.dll
+C:\Projects\POC\.NET Core\CoreWebAPIProject\obj\Debug\netcoreapp2.2\CoreWebAPIProject.pdb
